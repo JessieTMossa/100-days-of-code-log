@@ -208,7 +208,7 @@ Watched another hour of #100Devs class 2, HTML lab. Good review. Loving the keyb
 
 ### R1 pause day x3 migraine
 
-### R1D64 3/15
+### R1D64
 Got spooked by some of the conversations on Twitter, making me think there's no way I'll get a job in tech as a 40+ female. Need to refocus and keep pushing. Waiting for the #100Devs front end review to upload on YT.
 
 ### R1D65
