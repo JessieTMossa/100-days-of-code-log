@@ -230,4 +230,10 @@ Watched 2.5 hours of #100Devs front end review, 4 hours to go. Really need to fi
 Skimmed through the second half of Modern JS for Dinosaurs article, bookmarked to review later. Copied all of my #100DaysOfCode tweets into the GitHub log I should have been using from the start. Better late than not at all, I guess.
 
 ### R1D71
+Watched 2 hours of live #100Devs class. Really need to find the time to finish the review class and probably the full APIs and networking classes also. Not to mention homework. Can't stay awake any longer today.
 
+### R1D72
+
+R1D72 #100DaysOfCode #CodeNewbie #WomenWhoCode
+Mood
+#100Devs
