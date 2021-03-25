@@ -233,7 +233,10 @@ Skimmed through the second half of Modern JS for Dinosaurs article, bookmarked t
 Watched 2 hours of live #100Devs class. Really need to find the time to finish the review class and probably the full APIs and networking classes also. Not to mention homework. Can't stay awake any longer today.
 
 ### R1D72
+Did a couple Codewars kata. Looked at #100Devs checklist, but didn't work on any of the items. So tired, and determined to find the right balance of grinding and self-care. That's it for today. Gnite!
 
-R1D72 #100DaysOfCode #CodeNewbie #WomenWhoCode
+### R1D73
+
+R1D73 #100DaysOfCode #CodeNewbie #WomenWhoCode
 Mood
 #100Devs
