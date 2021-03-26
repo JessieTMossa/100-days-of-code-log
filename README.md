@@ -236,7 +236,11 @@ Watched 2 hours of live #100Devs class. Really need to find the time to finish t
 Did a couple Codewars kata. Looked at #100Devs checklist, but didn't work on any of the items. So tired, and determined to find the right balance of grinding and self-care. That's it for today. Gnite!
 
 ### R1D73
+Watched 2.5 hours of #100Devs front end review, about 1 hour left. Learned a couple things I hadn't seen in the fCC JS course: alert, event Listeners. Good stuff.
 
-R1D73 #100DaysOfCode #CodeNewbie #WomenWhoCode
+### R1D74
+
+
+R1D74 #100DaysOfCode #CodeNewbie #WomenWhoCode
 Mood
 #100Devs
