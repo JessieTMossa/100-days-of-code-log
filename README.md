@@ -239,8 +239,10 @@ Did a couple Codewars kata. Looked at #100Devs checklist, but didn't work on any
 Watched 2.5 hours of #100Devs front end review, about 1 hour left. Learned a couple things I hadn't seen in the fCC JS course: alert, event Listeners. Good stuff.
 
 ### R1D74
+Finished #100Devs review class, and watched 45 mins of class with API intro. Read flaviocopes article about semicolons. I'll probably keep including them, unless I'm told not to. Long day, and I'm not feeling well. Again.
 
+### R1D75
 
-R1D74 #100DaysOfCode #CodeNewbie #WomenWhoCode
+R1D75 #100DaysOfCode #CodeNewbie #WomenWhoCode
 Mood
 #100Devs
