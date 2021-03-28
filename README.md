@@ -242,7 +242,10 @@ Watched 2.5 hours of #100Devs front end review, about 1 hour left. Learned a cou
 Finished #100Devs review class, and watched 45 mins of class with API intro. Read flaviocopes article about semicolons. I'll probably keep including them, unless I'm told not to. Long day, and I'm not feeling well. Again.
 
 ### R1D75
+I made a thing...and IT ACTUALLY WORKS. Not ready for y'all to see it until I've done a little design touch-up. This would not have been possible without #100Devs, and I am so grateful.
 
-R1D75 #100DaysOfCode #CodeNewbie #WomenWhoCode
+### R1D76
+
+R1D76 #100DaysOfCode #CodeNewbie #WomenWhoCode
 Mood
 #100Devs
