@@ -245,7 +245,11 @@ Finished #100Devs review class, and watched 45 mins of class with API intro. Rea
 I made a thing...and IT ACTUALLY WORKS. Not ready for y'all to see it until I've done a little design touch-up. This would not have been possible without #100Devs, and I am so grateful.
 
 ### R1D76
+Ok, enough pretending to be a designer. No more ado. Tada! https://codepen.io/jessiebird/full/oNYqqeL
+What do y'all use for #a11y testing? I tried https://webaccessibility.com and it didn't catch a contrast issue. Black text + blue background != Thumbs up
 
-R1D76 #100DaysOfCode #CodeNewbie #WomenWhoCode
+### R1D77
+
+R1D77 #100DaysOfCode #CodeNewbie #WomenWhoCode
 Mood
 #100Devs
