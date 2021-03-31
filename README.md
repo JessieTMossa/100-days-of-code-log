@@ -252,7 +252,10 @@ What do y'all use for #a11y testing? I tried https://webaccessibility.com and it
 Watched most of @theDabolical's Twitch stream and got a little more clarity on JS objects. Drifted in and out of #100Devs stream. Looking forward to the backend review on Sunday, maybe I will feel less desperately lost then.
 
 ### R1D78
+Really having an off day, didn't make much progress. Started looking at fullstackopen.com/en/ as a possible booster/catch-up method for #100Devs. Sick & tired of feeling sick & tired. Bah humbug.
 
-R1D78 #100DaysOfCode #CodeNewbie #WomenWhoCode
+### R1D79
+
+R1D79 #100DaysOfCode #CodeNewbie #WomenWhoCode
 Mood
 #100Devs
