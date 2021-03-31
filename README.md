@@ -249,7 +249,10 @@ Ok, enough pretending to be a designer. No more ado. Tada! https://codepen.io/je
 What do y'all use for #a11y testing? I tried https://webaccessibility.com and it didn't catch a contrast issue. Black text + blue background != Thumbs up
 
 ### R1D77
+Watched most of @theDabolical's Twitch stream and got a little more clarity on JS objects. Drifted in and out of #100Devs stream. Looking forward to the backend review on Sunday, maybe I will feel less desperately lost then.
 
-R1D77 #100DaysOfCode #CodeNewbie #WomenWhoCode
+### R1D78
+
+R1D78 #100DaysOfCode #CodeNewbie #WomenWhoCode
 Mood
 #100Devs
