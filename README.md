@@ -255,7 +255,10 @@ Watched most of @theDabolical's Twitch stream and got a little more clarity on J
 Really having an off day, didn't make much progress. Started looking at fullstackopen.com/en/ as a possible booster/catch-up method for #100Devs. Sick & tired of feeling sick & tired. Bah humbug.
 
 ### R1D79
+Eased back into it with a couple of codewars kata today, completed one. Array filter method continues to evade me.
 
-R1D79 #100DaysOfCode #CodeNewbie #WomenWhoCode
+### R1D80
+
+R1D80 #100DaysOfCode #CodeNewbie #WomenWhoCode
 Mood
 #100Devs
