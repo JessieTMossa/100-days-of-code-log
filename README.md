@@ -258,7 +258,10 @@ Really having an off day, didn't make much progress. Started looking at fullstac
 Eased back into it with a couple of codewars kata today, completed one. Array filter method continues to evade me.
 
 ### R1D80
+Did some strategic planning today instead of coding. Thought about how to proceed in a way that is healthy. Going to use a lot of kindness and gentleness with myself for the next week. And I will conquer filter.
 
-R1D80 #100DaysOfCode #CodeNewbie #WomenWhoCode
+### R1D81
+
+R1D81 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
-#100Devs
+
