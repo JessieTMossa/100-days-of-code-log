@@ -261,7 +261,10 @@ Eased back into it with a couple of codewars kata today, completed one. Array fi
 Did some strategic planning today instead of coding. Thought about how to proceed in a way that is healthy. Going to use a lot of kindness and gentleness with myself for the next week. And I will conquer filter.
 
 ### R1D81
+Watched 2 hours of #100Devs ToDo app review. Still hopelessly lost, still too many unfamiliar concepts, but I'll get it. Planning to watch a few of the past streams.
 
-R1D81 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+### R1D82
+
+R1D82 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
 
