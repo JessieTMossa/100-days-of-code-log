@@ -264,7 +264,10 @@ Did some strategic planning today instead of coding. Thought about how to procee
 Watched 2 hours of #100Devs ToDo app review. Still hopelessly lost, still too many unfamiliar concepts, but I'll get it. Planning to watch a few of the past streams.
 
 ### R1D82
+Watched short #100Devs stream, then worked on homework. So many comments... Will continue tomorrow.
 
-R1D82 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+### R1D83
+
+R1D83 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
 
