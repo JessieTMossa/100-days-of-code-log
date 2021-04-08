@@ -270,6 +270,8 @@ Watched short #100Devs stream, then worked on homework. So many comments... Will
 Spent two hours adding comments in #100Devs homework...but I used Github comments not //. Since my fork is identical to the main, I can't start a pull request. Walking away for tonight.
 
 ### R1D84
+Thank God for copy/paste. Added inline comments for #100Devs homework. Took about 90 min, but at least I didn't have to start over. Since I was able to get up early today, I'm done before work! Have a great day all!
 
-R1D84 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+### R1D85
+R1D85 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
