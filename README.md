@@ -267,7 +267,9 @@ Watched 2 hours of #100Devs ToDo app review. Still hopelessly lost, still too ma
 Watched short #100Devs stream, then worked on homework. So many comments... Will continue tomorrow.
 
 ### R1D83
+Spent two hours adding comments in #100Devs homework...but I used Github comments not //. Since my fork is identical to the main, I can't start a pull request. Walking away for tonight.
 
-R1D83 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+### R1D84
+
+R1D84 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
-
