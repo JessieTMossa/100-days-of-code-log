@@ -273,5 +273,9 @@ Spent two hours adding comments in #100Devs homework...but I used Github comment
 Thank God for copy/paste. Added inline comments for #100Devs homework. Took about 90 min, but at least I didn't have to start over. Since I was able to get up early today, I'm done before work! Have a great day all!
 
 ### R1D85
-R1D85 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+Attended #100Devs class in Remo, very grateful for the networking tips specific to my neck of the woods. Hoping to have a lot of coding time this weekend. Still have to revisit the filter method.
+
+### R1D86
+
+R1D86 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
