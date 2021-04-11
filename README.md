@@ -276,6 +276,9 @@ Thank God for copy/paste. Added inline comments for #100Devs homework. Took abou
 Attended #100Devs class in Remo, very grateful for the networking tips specific to my neck of the woods. Hoping to have a lot of coding time this weekend. Still have to revisit the filter method.
 
 ### R1D86
+Semi-lazy day, had non-tech responsibilities that needed attention. Watched one of the videos assigned for #100Devs homework (what is MVC). Solved a codewars kata using filter. Still working on Git.
 
-R1D86 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+### R1D87
+
+R1D87 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
