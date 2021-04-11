@@ -279,6 +279,8 @@ Attended #100Devs class in Remo, very grateful for the networking tips specific 
 Semi-lazy day, had non-tech responsibilities that needed attention. Watched one of the videos assigned for #100Devs homework (what is MVC). Solved a codewars kata using filter. Still working on Git.
 
 ### R1D87
+Jumped into #100Devs office hours at exactly the right time, info I needed was on the current slide. Successfully pushed a local file to GitHub using Bash commands.
 
-R1D87 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+### R1D88
+R1D88 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
