@@ -282,5 +282,9 @@ Semi-lazy day, had non-tech responsibilities that needed attention. Watched one 
 Jumped into #100Devs office hours at exactly the right time, info I needed was on the current slide. Successfully pushed a local file to GitHub using Bash commands.
 
 ### R1D88
-R1D88 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+Did a couple of codewars. Not feeling well, and it's Monday, so that's it for today.
+
+### R1D89
+
+R1D89 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
