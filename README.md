@@ -287,6 +287,9 @@ Did a couple of codewars. Not feeling well, and it's Monday, so that's it for to
 ### R1D89
 Did one codewars (thanks @theDabolical) and watched #100Devs class (thanks @Microsoft @Azure). Learned about passport and authentication. Cool stuff.
 
+### R1 pause day
+Mental health pause day. Back soon.
+
 ### R1D90
 
 R1D90 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
