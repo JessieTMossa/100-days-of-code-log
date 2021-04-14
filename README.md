@@ -285,6 +285,9 @@ Jumped into #100Devs office hours at exactly the right time, info I needed was o
 Did a couple of codewars. Not feeling well, and it's Monday, so that's it for today.
 
 ### R1D89
+Did one codewars (thanks @theDabolical) and watched #100Devs class (thanks @Microsoft @Azure). Learned about passport and authentication. Cool stuff.
 
-R1D89 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+### R1D90
+
+R1D90 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
