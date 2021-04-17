@@ -291,6 +291,12 @@ Did one codewars (thanks @theDabolical) and watched #100Devs class (thanks @Micr
 Mental health pause day. Back soon.
 
 ### R1D90
+Attended #100Devs class. Didn't win anything, but got closer to understanding the backend processes.
 
-R1D90 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+### R1D91
+Reviewed part of last class to improve comprehension. Started todo-list with auth project, got stuck. 
+
+### R1D92
+
+R1D92 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
