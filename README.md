@@ -297,6 +297,9 @@ Attended #100Devs class. Didn't win anything, but got closer to understanding th
 Reviewed part of last class to improve comprehension. Started todo-list with auth project, got stuck. 
 
 ### R1D92
+Feeling very drained today, so I took a lot of downtime. Solved one codewars kata. Really hoping I can dive back into the todo-list project tomorrow. Need to make a plan for day 101 forward.
 
-R1D92 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+### R1D93
+
+R1D93 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
