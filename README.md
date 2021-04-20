@@ -300,6 +300,10 @@ Reviewed part of last class to improve comprehension. Started todo-list with aut
 Feeling very drained today, so I took a lot of downtime. Solved one codewars kata. Really hoping I can dive back into the todo-list project tomorrow. Need to make a plan for day 101 forward.
 
 ### R1D93
+REALLY bad migraine yesterday. Did a whole lot of nothing. Better enough to work today, but not enough to push myself tonight. Did one codewars kata. 
+Praying it's better tomorrow, because I need to be in #100Devs class!
 
-R1D93 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+### R1D94
+
+R1D94 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
