@@ -304,13 +304,23 @@ REALLY bad migraine yesterday. Did a whole lot of nothing. Better enough to work
 Praying it's better tomorrow, because I need to be in #100Devs class!
 
 ### R1D94
-
+Attended #100Devs class but no review. Got real.
 
 ### R1D95
-
+Started working on my checklist
 
 ### R1D96
+Attended #100Devs class and met my project group. Team ToastStack assemble!
 
+### R1D97
+More comments in Repl and Azure/Mongo issues.
 
-R1D96 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+### R1D98
+R1D98 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
+
+### R1D99
+
+
+### R1D100
+
