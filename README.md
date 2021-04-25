@@ -4,31 +4,31 @@ The log of my #100DaysOfCode challenge. Started on January 1, 2021.
 
 ## Log
 
-### R1D1 
+### R1D01 
 Started the Regular Expressions section of JavaScript certification on http://freecodecamp.org, completed challenges 1-22 of 33. Really need to learn how to use Git/Github!
 
-### R1D2
+### R1D02
 Completed remainder of Regular Expressions section (challenges 23-33). Some of it is still baffling, but that's ok. With practice it will start to make sense. I hope! :) Tomorrow I'll learn how to use GitHub, then maybe start Debugging section!
 
-### R1D3
+### R1D03
 Completed GitHub tutorial, created hello-world repository, readme-edits branch, committed changes to branch, created pull request, merged branches. Completed Debugging section (challenges 1-12).
 
-### R1D4
+### R1D04
 It's my first workday of the challenge. Got up early to get my time in before work! Started Basic Data Structures section, completed challenges 1-10 of 20. Some of it seemed familiar (eg push/unshift), some was new.
 
-### R1D5
+### R1D05
 Coding before work again, this may be the new normal. Continued Basic Data Structures section, completed challenges 11-17 of 20. I had a lot of trouble with 11, and had to check the hints, but I was really close!
 
-### R1D6
+### R1D06
 New normal = false. I am not feeling well today, but did get my hour in. I did a little reading, then finished the Basic Data Structures section. Hopefully I'll feel better tomorrow and can dive into algorithms.
 
-### R1D7
+### R1D07
 Started Basic Algorithm Scripting, completed challenges 1-3 of 16. I did fairly well with it, but my brain hurts now. I'm taking a break from coding tomorrow. Will put my notes into Excel for easier reference.
 
-### R1D8
+### R1D08
 Started transcribing my notes, and I think that process is going to help a lot. Just the review by itself is good, and keyword search will be even better. Hoping to get one challenge done today to keep my fCC streak.
 
-### R1D9
+### R1D09
 Continued transcribing my notes, and completed algorithm challenge 5/16. Only doing one challenge per day until my notes are all transcribed. Maybe a couple more days of that. Hope my head stops hurting soon. Ugh.
 Also, I'm frustrated that so many of these algorithm solutions could (according to the hint comments and solutions in the guide) use .split() when I haven't learned that yet!
 
@@ -319,8 +319,9 @@ More comments in Repl and Azure/Mongo issues.
 Feeling down and drained. Reviewed part of the code with another member of my group (Leonardo G - Brazil), who graciously helped me decipher a lot of it. Entered some more comments.
 
 ### R1D99
-R1D99 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
-Mood
+Learned about local auth during #100Devs office hours. Pretty cool. Got Heroku installed but haven't used it yet.
 
 ### R1D100
-
+R1D100 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+Mood
+Can't believe how much I've accomplished this year. So much left to do. Thanks for the push @ka11away 
