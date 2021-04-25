@@ -316,11 +316,11 @@ Attended #100Devs class and met my project group. Team ToastStack assemble!
 More comments in Repl and Azure/Mongo issues.
 
 ### R1D98
-R1D98 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
-Mood
+Feeling down and drained. Reviewed part of the code with another member of my group (Leonardo G - Brazil), who graciously helped me decipher a lot of it. Entered some more comments.
 
 ### R1D99
-
+R1D99 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
+Mood
 
 ### R1D100
 
