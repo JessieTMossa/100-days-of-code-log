@@ -321,6 +321,9 @@ Feeling down and drained. Reviewed part of the code with another member of my gr
 ### R1D99
 Learned about local auth during #100Devs office hours. Pretty cool. Got Heroku installed but haven't used it yet.
 
+### R1 pause day
+Yes, I took what could have been the last day of the challenge off. Gotta do what you gotta do. It's Monday and full moon and yep.
+
 ### R1D100
 R1D100 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
 Mood
