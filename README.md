@@ -325,6 +325,6 @@ Learned about local auth during #100Devs office hours. Pretty cool. Got Heroku i
 Yes, I took what could have been the last day of the challenge off. Gotta do what you gotta do. It's Monday and full moon and yep.
 
 ### R1D100
-R1D100 #100DaysOfCode #CodeNewbie #WomenWhoCode #100Devs
-Mood
-Can't believe how much I've accomplished this year. So much left to do. Thanks for the push @ka11away 
+Worked with #100Devs project group. Glad to have good support for our foray into web app building.
+Can't believe how far I've come since 1/1. So much left to do. Thanks for the push @ka11away 
+Stay tuned for R2, date TBD.
